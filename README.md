@@ -1,6 +1,5 @@
-# OOP-Based NLP Console Application
-
-An interactive, menu-driven Natural Language Processing (NLP) console application developed using Python and Object-Oriented Programming (OOP) principles. The application integrates user authentication with real-world NLP functionalities using cloud-based NLP models.
+# SmartNLP – OOP-Based NLP Console App
+SmartNLP is an object-oriented, menu-driven NLP console application built in Python. It integrates authentication mechanisms with real-world NLP functionalities including NER, Sentiment Analysis, and Language Detection using cloud-based NLP models. The project is demonstrated in Google Colab with interactive outputs preserved.
 
 ---
 
